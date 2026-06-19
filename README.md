@@ -24,7 +24,7 @@ The extra functionality which we thought of consisted of:
 ### Naming
 Most important thing in ideation is the naming of the overall project, so after many different ideas we came up with a funny and genius name, ´Shuffle the fuck up´ short ´STFU´.
 
-[name](./images/name_logo.jpg)
+![name](./images/name_logo.jpg)
 
 ## Prototyping
 In the prototyping process we tried to check if the two motors even have enough power to slide the cards towards the middle so that the shuffling even works. 
@@ -83,7 +83,7 @@ After getting all the measurements and seeing the prototype with cardboard we be
 
 With some time tinkering around we got the final model ready for printing.
 
-[]()
+[Modells](./modells/)
 
 ## Construction
 
@@ -134,14 +134,15 @@ Next step was to connect all the cables and assemble the device with the interio
 
 ![assemble_3](./images/assemble_3.jpg)
 
-![]()
-
 --- 
 
 The complete device:
 
 ![finished_part_1](./images/finished_1.jpg)
 ![finished_part_2](./images/finished_2.jpg)
+
+## Issues
+The angle for the cards is propably not enough, because the card get stuck, so it needs a bit more time to tinker aroung.
 
 
 ## Parts
